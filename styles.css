@@ -264,6 +264,12 @@ footer .social-icons a:hover {
 .frase {
     width: 50%;
     text-align: center;
+    padding: 40px;
+}
+.frase p {
+    font-size: 30px;
+    font-family: "Fredoka", sans-serif;
+
 }
 
 .imageMajor {
@@ -432,14 +438,37 @@ footer .social-icons a:hover {
 body {
     background-color: #f2efdc;
     
+    
 }
 
 a {
     text-decoration: none;
+    font-family: "Fredoka", sans-serif;
+}
+
+p {
+    font-family: "Fredoka", sans-serif;
+
+}
+
+h1 {
+    font-family: "Fredoka", sans-serif;
+
 }
 
 h3 {
     margin-bottom: 10px;
+    font-family: "Fredoka", sans-serif;
+
+}
+
+h2 {
+    font-family: "Fredoka", sans-serif;
+}
+
+h4 {
+    font-family: "Fredoka", sans-serif;
+
 }
 
 /* About us */
